@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-#theme: minima
+#theme: minima 
 gems:
   - jekyll-feed
 exclude:
