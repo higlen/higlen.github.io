@@ -4,6 +4,4 @@ theme: jekyll-theme-cayman
 #theme: minima 
 gems:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
